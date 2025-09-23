@@ -18,7 +18,7 @@ Publicaremos os códigos em jupyter notebook, não enviaremos os dados utilizado
 
 
 
-\*\*Autor\*\* : Leonardo Hoinaski
+*Autor* : Leonardo Hoinaski
 
 Laboratório de Controle da Qualidade do Ar - UFSC 
 
